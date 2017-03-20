@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "896743608774",
+    "firebase_url": "https://chat-app-cde96.firebaseio.com",
+    "project_id": "chat-app-cde96",
+    "storage_bucket": "chat-app-cde96.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896743608774:android:ec49c0ee39e46203",
+        "android_client_info": {
+          "package_name": "ke.co.stashare.liq254"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896743608774-bi5keajqmnsmfqon3v8mmh18ckkar9pj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ke.co.stashare.liq254",
+            "certificate_hash": "5b455ba38dafbd35b1dcb65a21cdd1c64be94c48"
+          }
+        },
+        {
+          "client_id": "896743608774-ef87ai06h1nk9ik24qphljh20njc8uo5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjppMsmLCrI29QiyP98Z_cIMbOWsz1k5M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896743608774-ef87ai06h1nk9ik24qphljh20njc8uo5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
